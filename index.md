@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Revenue Analysis](/sample_page)
-<img src="images/dashboard_omzetanalyse?raw=true" width="5000" height="auto">
+<img src="images/dashboard_omzetanalyse?raw=true" width="200%" height="auto">
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
