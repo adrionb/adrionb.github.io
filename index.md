@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Revenue Analysis](/sample_page)
-<img src="images/dashboard_omzetanalyse?raw=true"/
+<img src="images/dashboard_omzetanalyse"/
   width= "100%"
   height= "auto"  />
 
